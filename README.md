@@ -1,5 +1,5 @@
 <h1 align="center"><br>
-  <img src="https://github.com/claudiopelizari/pelizari.github.io/blob/master/bethehero.svg?sanitize=true" alt="BeTheHero" width="100%"><br><br>
+  <img src="https://github.com/claudiopelizari/be-the-hero/blob/master/bethehero.svg?sanitize=true" alt="BeTheHero" width="100%"><br><br>
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://claudiopelizari.github.io/pelizari.github.io">
-  <img alt="BeTheHero" src="https://github.com/claudiopelizari/pelizari.github.io/blob/master/bethehero.png" width="100%"></a>
+  <img alt="BeTheHero" src="https://github.com/claudiopelizari/be-the-hero/blob/master/bethehero.png" width="100%"></a>
 </p>
 
 
@@ -72,4 +72,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/claudiopelizari/pelizari.github.io/blob/master/LICENSE.md">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/claudiopelizari/be-the-hero/blob/master/LICENSE.md">LICENSE</a> para mais detalhes.
